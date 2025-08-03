@@ -1,2 +1,2 @@
-no colift merge
+! no colift mergee
 this is the 2nd file
